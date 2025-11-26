@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on fharook</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on fharook</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2025 fharookshaik</copyright>
+    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latest in Multimodal AI</title>
+      <link>//localhost:1313/posts/latest-in-multimodal-ai/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/latest-in-multimodal-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thoughts on Data Analysis</title>
+      <link>//localhost:1313/posts/thoughts-on-data-analysis/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/thoughts-on-data-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Journey into AI</title>
+      <link>//localhost:1313/posts/my-journey-into-ai/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/my-journey-into-ai/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
