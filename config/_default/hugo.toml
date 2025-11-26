@@ -4,6 +4,7 @@
 
 baseURL = "https://portfolio-8mr.pages.dev/"
 defaultContentLanguage = "en"
+theme = "congo"
 
 enableRobotsTXT = true
 summaryLength = 0
