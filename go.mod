@@ -2,4 +2,4 @@ module github.com/fharookshaik/portfolio
 
 go 1.25.4
 
-require github.com/jpanther/congo/v2 v2.12.2 // indirect
+require github.com/nunocoracao/blowfish/v2 v2.93.0 // indirect

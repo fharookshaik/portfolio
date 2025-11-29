@@ -3,9 +3,6 @@ title: "About"
 draft: false
 ---
 
-**Location**: Kopfstraße 2, Cottbus, Germany, 03046  
-**Phone**: (+49) 15560769518  
-**Email**: [fharookshaik.5@outlook.com](mailto:fharookshaik.5@outlook.com)
 
 ## Professional Experience
 
