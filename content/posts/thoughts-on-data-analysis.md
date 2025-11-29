@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Data Analysis"
 date: 2025-11-10
-draft: false
+draft: true
 ---
 
 Data analysis is at the heart of modern decision-making.
